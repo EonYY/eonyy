@@ -5,11 +5,11 @@
 <h1 align="center">I'm Eon ✨</h1>
 <h3 align="center">A passionate developer from the USA</h3></br>
 <div align="center">
-🌱 I’m currently learning **full-stack web development before diving into game development!**
+🌱 I’m currently learning <strong>full-stack web development before diving into game development!</strong>
 </br></br>
-❓ See somewhere I can improve? **Any and all feedback is appreciated!**
+❓ See somewhere I can improve? <strong>Any and all feedback is appreciated!</strong>
 </br></br>
-🎮 Reach me on Discord! **EonYY#9483**
+🎮 Reach me on Discord! <strong>EonYY#9483</strong>
 </div>  
 </br>
 <h3 align="center">Languages and Tools:</h3>
