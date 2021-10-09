@@ -16,12 +16,12 @@
 <h2>TECH STACK</h2>
 
   ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Material UI](https://img.shields.io/badge/materialui-black.svg?style=for-the-badge&logo=material-ui&logoColor=%230081CB)
   ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
   ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
-  ![Material UI](https://img.shields.io/badge/materialui-black.svg?style=for-the-badge&logo=material-ui&logoColor=%230081CB)
 ![NPM](https://img.shields.io/badge/NPM-black.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Webpack](https://img.shields.io/badge/webpack-black.svg?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 ![Firebase](https://img.shields.io/badge/firebase-black.svg?style=for-the-badge&logo=firebase)
