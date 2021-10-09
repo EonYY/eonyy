@@ -1,16 +1,37 @@
 <div align="center">
-<img src="https://github.com/EonYY/eonyy/blob/3cf2a0a2dc5d9661dc33eccddd21aad122b3d4ef/Hello_World_2.gif" align="center"/>
-</div>  
 
-<h1 align="center">I'm Eon ✨</h1>
-<h3 align="center">A passionate developer from the USA</h3></br>
-<div align="center">
-🌱 I’m currently learning <strong>full-stack web development before diving into game development!</strong>
+<img alt="Introduction Header" src="https://github.com/EonYY/eonyy/blob/2b58909f20ccbc650f83a1f21358b144dba6207d/github-profile-header-large3.jpg" />
 </br></br>
-❓ See somewhere I can improve? <strong>Any and all feedback is appreciated!</strong>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Forever+learning.+Forever+exploring.)](https://git.io/typing-svg)
+
+🌀 I’m currently learning <strong>full-stack web development before diving into game development!</strong>
 </br></br>
-🎮 Reach me on Discord! <strong>EonYY#9483</strong>
-</div>  
-</br>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/> </a> </p>
+🌀 See somewhere I can improve? <strong>Any and all feedback is appreciated!</strong>
+</br></br>
+🌀 Reach me on Discord! <strong>EonYY#9483</strong>
+</br></br>
+
+
+<h2>TECH STACK</h2>
+
+  ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+  ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+  ![Material UI](https://img.shields.io/badge/materialui-black.svg?style=for-the-badge&logo=material-ui&logoColor=%230081CB)
+![NPM](https://img.shields.io/badge/NPM-black.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Webpack](https://img.shields.io/badge/webpack-black.svg?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
+![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
+![Firebase](https://img.shields.io/badge/firebase-black.svg?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/sqlite-black.svg?style=for-the-badge&logo=sqlite&logoColor=%2307405e)
+![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=0078D6)
+
+
+<h2>GITHUB STATS</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EonYY&theme=jolly&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&currStreakLabel=36BCF7&currStreakNum=36BCF7&border=36BCF7&stroke=36BCF7)](https://git.io/streak-stats)
+</div>
