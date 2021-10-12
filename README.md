@@ -4,10 +4,10 @@
 </br></br>
   
 <a href="https://github.com/eonyy/quests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eonyy&repo=quests&bg_color=011627&border_color=FE64D9&text_color=36BBF6&icon_color=FE64D9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eonyy&repo=quests&bg_color=011627&border_color=657382&text_color=36BBF6&icon_color=FE64D9" />
 </a>
 <a href="https://github.com/eonyy/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eonyy&repo=portfolio&bg_color=011627&border_color=FE64D9&text_color=36BBF6&icon_color=FE64D9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eonyy&repo=portfolio&bg_color=011627&border_color=657382&text_color=36BBF6&icon_color=FE64D9" />
 </a>
 </br></br>
   
