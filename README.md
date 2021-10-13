@@ -3,17 +3,9 @@
 <img alt="Introduction Header" src="https://github.com/EonYY/eonyy/blob/2b58909f20ccbc650f83a1f21358b144dba6207d/github-profile-header-large3.jpg" />
 </br></br>
   
-<a href="https://github.com/eonyy/quests">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eonyy&repo=quests&bg_color=011627&border_color=657382&text_color=36BBF6&icon_color=FE64D9" />
-</a>
-<a href="https://github.com/eonyy/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eonyy&repo=portfolio&bg_color=011627&border_color=657382&text_color=36BBF6&icon_color=FE64D9" />
-</a>
-</br></br>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Forever+learning.+Forever+exploring.)](https://git.io/typing-svg)
-
-
 
 🌀 I’m currently learning <strong>full-stack web development before diving into game development!</strong>
 </br></br>
